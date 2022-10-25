@@ -2,6 +2,9 @@
 
 pragma solidity ^0.6.0;
 
+contract Item{
+
+}
 contract ItemManager{
 
     enum SupplyChainSteps{Created, Paid, Delivered}
