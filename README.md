@@ -7,3 +7,4 @@ MIT License
 - Solidity
 - Truffle
 - React
+- Remix
