@@ -3,7 +3,7 @@
 pragma solidity ^0.6.0;
 
 contract Item{
-
+    mapping(uint => S_Item) public items;
 }
 contract ItemManager{
 
